@@ -3,6 +3,8 @@
   + Regular Expressions (RegEx) in 100 Seconds: https://youtu.be/sXQxhojSdZM
   + Used to Validate Text and Seach through Text
   + Regex Reference https://fireship.io/lessons/regex-cheat-sheet-js/
+  + East to learn site, shows you the highlights of  the expressions which makes it easier to learn: https://regexr.com/
+  + Learn Regular Expressions In 20 Minutes: https://www.youtube.com/watch?v=rhzKDrUiJVk&ab_channel=WebDevSimplified
 
 2. Research:
   + How to use regex
